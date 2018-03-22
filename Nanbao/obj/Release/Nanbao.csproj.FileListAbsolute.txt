@@ -1,0 +1,9 @@
+C:\c#Files\Nanbao\Nanbao\bin\Release\Nanbao.exe.config
+C:\c#Files\Nanbao\Nanbao\bin\Release\Nanbao.exe
+C:\c#Files\Nanbao\Nanbao\bin\Release\Nanbao.pdb
+C:\c#Files\Nanbao\Nanbao\bin\Release\Newtonsoft.Json.dll
+C:\c#Files\Nanbao\Nanbao\bin\Release\Newtonsoft.Json.xml
+C:\c#Files\Nanbao\Nanbao\obj\Release\Nanbao.csproj.CoreCompileInputs.cache
+C:\c#Files\Nanbao\Nanbao\obj\Release\Nanbao.exe
+C:\c#Files\Nanbao\Nanbao\obj\Release\Nanbao.pdb
+C:\c#Files\Nanbao\Nanbao\obj\Release\Nanbao.csprojResolveAssemblyReference.cache
